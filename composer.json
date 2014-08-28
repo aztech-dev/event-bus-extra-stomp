@@ -16,7 +16,7 @@
     },
     "minimum-stability": "stable",
     "require": {
-        "aztech/event-bus": "dev-master",
+        "aztech/event-bus": "~1",
         "aztech/php-utils": "~0",
         "fusesource/stomp-php": "~2",
         "psr/log": "~1.0"
